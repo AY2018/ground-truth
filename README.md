@@ -4,7 +4,7 @@ On a 32 images qu'il faut segmenter pour avoir une vérité de terrain afin d'en
 
 Je vais illustrer le processus en prennant l'exemple de l'image 00073.jpg
 
-Télécharger le code/scripts de ce tuto : `git clone `
+Télécharger le code/scripts de ce tuto : `git clone https://github.com/AY2018/ground-truth.git`
 
 ## Étape 1 : Segmentation initiale 
 
@@ -117,7 +117,7 @@ On veut maintenant visualiser ce que l'on a.
 Installation de makesense.ai 
 
 ```bash
-git clone https://github.com/SkalskiP/make-sense.git # C'est le repo officiel, j'ajoute celui qui permet de supprimer demain matin 
+git clone https://github.com/AY2018/make-sense2.git # Ce repo permet de supprimer les points d'un polygone contrairement à l'app officielle
 
 cd make-sense
 
